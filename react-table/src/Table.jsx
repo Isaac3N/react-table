@@ -2,7 +2,7 @@ import React from 'react'
 
 const Table = ({data}) => {
   return (
-    <table>
+    <table> 
         <tbody>
             <tr>
                 <th>Name</th>
